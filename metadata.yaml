@@ -1,0 +1,42 @@
+_repo: Chroniques-de-J-Froissart-tome-1013_70396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Froissart, Jean
+    aliases:
+    - Froyssart, Johan
+    - Froissart, Jehan
+    - Froissart, John
+    - Frossardus, Joannes
+    gutenberg_agent_id: '5170'
+    url: http://www.gutenberg.org/2009/agents/5170
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Froissart
+    - https://fr.wikipedia.org/wiki/Jean_Froissart
+description: ''
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70396'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k4061527
+pgterms:marc905: 20110103105256froissart
+pgterms:marc906: '1869'
+pgterms:marc907: FR
+production_note: Clarity, Hans Pieterse and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bVve J. Renouard, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- 476-1492'
+- !lcsh 'Great Britain -- History -- 14th century'
+- !lcsh 'Burgundy (France) -- History'
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- !lcsh 'Flanders -- History'
+- !lcsh 'France -- History -- House of Valois, 1328-1589'
+- !lcc 'D'
+- GITenberg
+title: Chroniques de J. Froissart, tome 10/13
+url: http://www.gutenberg.org/ebooks/70396
