@@ -1,5 +1,8 @@
 _repo: Chroniques-de-J-Froissart-tome-1013_70396
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70396-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Froissart
     - https://fr.wikipedia.org/wiki/Jean_Froissart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70396#Chroniques-de-J-Froissart-tome-1013
 gutenberg_issued: '2023-03-27'
 identifiers:
   gutenberg: '70396'
